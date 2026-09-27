@@ -63,3 +63,4 @@ jobs:
           target: 'http://localhost:8080'
           allow_issue_writing: false
           fail_action: false
+          artifact_name: ''
